@@ -1,0 +1,40 @@
+{
+
+    "productos":[
+        {
+            "imagen": "https://falabella.scene7.com/is/image/FalabellaCO/12482928_1?wid=1500&hei=1500&qlt=70",
+            "nombre": "Dissel",
+            "precio": 149990,
+            "descuento": 10
+        }, {
+            "imagen": "https://falabella.scene7.com/is/image/FalabellaCO/1397266_1?wid=1500&hei=1500&qlt=70",
+            "nombre": "TOMMY HILFIGER",
+            "precio": 120000,
+            "descuento": 15
+        },
+        {
+            "imagen": "https://falabella.scene7.com/is/image/FalabellaCO/72730053_1?wid=800&hei=800&qlt=70",
+            "nombre": "NAUTICA",
+            "precio": 259990,
+            "descuento": 62
+        },
+        {
+            "imagen": "https://falabella.scene7.com/is/image/FalabellaCO/72728721_1?wid=800&hei=800&qlt=70",
+            "nombre": "HUGO BOSS",
+            "precio": 219990,
+            "descuento": 57
+        },
+        {
+            "imagen": "https://falabella.scene7.com/is/image/FalabellaCO/3069114_1?wid=1500&hei=1500&qlt=70",
+            "nombre": "CAROLINA HERRERA",
+            "precio": 540000,
+            "descuento": 35
+        },
+        {
+            "imagen": "https://falabella.scene7.com/is/image/FalabellaCO/3820347_1?wid=1500&hei=1500&qlt=70",
+            "nombre": "LACOSTE",
+            "precio": 600000,
+            "descuento":50
+        }
+    ]
+}
